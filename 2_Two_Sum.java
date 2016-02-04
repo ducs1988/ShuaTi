@@ -14,7 +14,7 @@ public class Solution {
             }else{
                 map.put(target-nums[i], i);
             }
-        }  
+        }    
         return result;
     }
 }
